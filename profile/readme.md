@@ -4,8 +4,6 @@ Denna kurs på 100 utbildningsdagar är en grundläggande intensivutbildning ino
 
 Kursens innehåll är omfattande. En rad olika kompetenser och tekniker kommer att beröras under fem segment.
 
-### Innehåll _( ca 20 veckor )_
-
 ## HTML & CSS, tillgänglighet
 Under de första veckorna behandlar kursen grundläggande HTML och CSS. Vi arbetar med färdigheter för att strukturera webbsidor med semantisk HTML, vilket förbättrar tillgänglighet och SEO. Segmentet täcker även CSS för att skapa attraktiva och responsiva designlösningar.
 
