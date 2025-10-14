@@ -1,8 +1,6 @@
 # Kursöversikt
 
-Denna kurs på 100 utbildningsdagar är en grundläggande intensivutbildning inom webbutveckling med inriktning på HTML/CSS, JavaScript/TypeScript och React/Next.js (front-end).
-
-Kursens innehåll är omfattande. En rad olika kompetenser och tekniker kommer att beröras under fem segment.
+Denna kurs på 100 utbildningsdagar är en grundläggande intensivutbildning inom webbutveckling med fokus på React/Next.js. En rad olika kompetenser och tekniker kommer att beröras under följande delmoment.
 
 ## HTML & CSS, tillgänglighet
 Under de första veckorna behandlar kursen grundläggande HTML och CSS. Vi arbetar med färdigheter för att strukturera webbsidor med semantisk HTML, vilket förbättrar tillgänglighet och SEO. Segmentet täcker även CSS för att skapa attraktiva och responsiva designlösningar.
