@@ -1,16 +1,16 @@
-# Frontend Kursöversikt
+# Kursöversikt
 
 Denna kurs på 100 utbildningsdagar är en grundläggande intensivutbildning inom webbutveckling med inriktning på HTML/CSS, JavaScript/TypeScript och React/Next.js (front-end).
 
 Kursens innehåll är omfattande. En rad olika kompetenser och tekniker kommer att beröras under fem segment.
 
-### Innehåll _( 20 veckor )_
+### Innehåll _( ca 20 veckor )_
 
-## HTML & CSS
+## HTML & CSS, tillgänglighet
 Under de första veckorna behandlar kursen grundläggande HTML och CSS. Vi arbetar med färdigheter för att strukturera webbsidor med semantisk HTML, vilket förbättrar tillgänglighet och SEO. Segmentet täcker även CSS för att skapa attraktiva och responsiva designlösningar.
 
-## Typescript/Javascript 
-Kursen ägnar 4 veckor åt TypeScript, från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
+## Typescript
+Från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
 
 ## React/Next.js 
 Under dessa veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
